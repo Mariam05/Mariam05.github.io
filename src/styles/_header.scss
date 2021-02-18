@@ -34,9 +34,19 @@
   }
   .site-description {
     font-size: 20px;
-    display: block;
+    display: inline-block;
     line-height: 1;
     color: #FFF;
+    margin-top: 10px;
+    @media only screen and (min-width:$cut){
+      font-size: 34px;
+    }
+  }
+  .site-subtitle {
+    font-size: x-small;
+    display: inline-block;
+    line-height: 1;
+    color: red;
     margin-top: 10px;
     @media only screen and (min-width:$cut){
       font-size: 34px;

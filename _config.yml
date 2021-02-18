@@ -1,16 +1,22 @@
 # Site settings
-title: Mauricio Urraco
-description: Jekyll Theme Minimal Resume
+title: Mariam Almalki
+description: Mariam's space
 # baseurl: "" # the subpath of your site, e.g. /blog
 # url: "localhost:3000" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
 
 # User settings
-username: Mauricio Urraco
-user_description: I\'m a nomad Software Engineer, always searching for the next challenge; no task is too scary nor too difficult. Lately I have been immersed in the <b>crypto-world</b> working for Radix, a London based startup trying to create the next massive scalable DLT. I'm one of the two guys behind all the JS related stuff.
-user_title: Software Engineer
-email: mauriurraco@gmail.com
+username: Mariam Almalki
+user_description: "Thank you for visiting my space! It is still under construction, but in the meantime, here are a few quick facts about me:
+                    I am a 4th year software engineering student with experience in web development.
+                    I am skilled with Ruby on Rails, Java, Python, and C#.
+                    I also have experience working with the cloud. 
+                    I'm always open to new opportunities and I love learning new things and meeting new people! 
+                    Don't hesistate to reach out!"
+user_title: Software Engineer 
+user_subtitle: (well, almost)
+email: tomariam@gmail.com
 # twitter_username: lorem_ipsum
-# github_username:  lorem_ipsum
+github_username:  Mariam05
 # gplus_username:  lorem_ipsum
 
 exclude: ['package.json', 'src' , 'node_modules']
